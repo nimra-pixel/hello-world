@@ -1,0 +1,12 @@
+fruits = ('mango','coconut','berry','cherry')
+print(type(fruits))
+atuple = ('iampak',)
+print(type(atuple))
+print(fruits[-2:-4])
+list = [22,33,45,676,89]
+print(list[-1:-5])
+print(list[3:0])
+print(fruits[3:-4])
+print(len(fruits))
+cities = tuple(('lahore','karachi','ismbd'))
+print(cities)
