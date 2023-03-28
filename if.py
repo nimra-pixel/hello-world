@@ -10,5 +10,5 @@ if a!=b:
 else
     print(bad)
     
-    
+   #if condition
     
